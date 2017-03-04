@@ -1,0 +1,787 @@
+2017-03-02 11:23:59,862 - realTime_san1.py:36 - logging - first info message
+2017-03-02 11:23:59,970 - realTime_san1.py:197 - logging - wait...min:23
+2017-03-02 11:29:00,053 - realTime_san1.py:197 - logging - wait...min:29
+2017-03-02 11:34:00,152 - realTime_san1.py:197 - logging - wait...min:34
+2017-03-02 11:39:00,214 - realTime_san1.py:197 - logging - wait...min:39
+2017-03-02 11:44:00,257 - realTime_san1.py:197 - logging - wait...min:44
+2017-03-02 11:49:00,342 - realTime_san1.py:197 - logging - wait...min:49
+2017-03-02 11:54:00,414 - realTime_san1.py:197 - logging - wait...min:54
+2017-03-02 12:00:00,000 - realTime_san1.py:207 - logging - start! day 2 hour 12
+2017-03-02 12:00:54,874 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 12:00:54,875 - realTime_san1.py:229 - logging - the program time is :35.6497578621
+2017-03-02 12:00:54,875 - realTime_san1.py:230 - logging - down search! day 2 hour 12
+2017-03-02 12:01:03,867 - realTime_san1.py:255 - logging - down! day 2 hour 12
+2017-03-02 12:01:03,869 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 12:06:03,946 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 12:11:04,019 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 12:16:04,117 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 12:21:04,220 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 12:26:04,306 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 12:31:04,408 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 12:36:04,502 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 12:41:04,600 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 12:46:04,700 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 12:51:04,803 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 13:00:00,011 - realTime_san1.py:207 - logging - start! day 2 hour 13
+2017-03-02 13:00:53,081 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 13:00:53,082 - realTime_san1.py:229 - logging - the program time is :33.8915262222
+2017-03-02 13:00:53,082 - realTime_san1.py:230 - logging - down search! day 2 hour 13
+2017-03-02 13:01:02,008 - realTime_san1.py:255 - logging - down! day 2 hour 13
+2017-03-02 13:01:02,008 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 13:06:02,102 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 13:11:02,182 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 13:16:02,214 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 13:21:02,251 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 13:26:02,346 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 13:31:02,412 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 13:36:02,505 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 13:41:02,599 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 13:46:02,698 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 13:51:02,793 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 14:00:00,013 - realTime_san1.py:207 - logging - start! day 2 hour 14
+2017-03-02 14:00:53,291 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 14:00:53,292 - realTime_san1.py:229 - logging - the program time is :33.9287250042
+2017-03-02 14:00:53,292 - realTime_san1.py:230 - logging - down search! day 2 hour 14
+2017-03-02 14:01:02,430 - realTime_san1.py:255 - logging - down! day 2 hour 14
+2017-03-02 14:01:02,431 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 14:06:02,510 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 14:11:02,601 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 14:16:02,681 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 14:21:02,780 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 14:26:02,852 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 14:31:02,955 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 14:36:03,052 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 14:41:03,149 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 14:46:03,243 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 14:51:03,341 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 15:00:00,011 - realTime_san1.py:207 - logging - start! day 2 hour 15
+2017-03-02 15:00:53,087 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 15:00:53,088 - realTime_san1.py:229 - logging - the program time is :33.9678587914
+2017-03-02 15:00:53,088 - realTime_san1.py:230 - logging - down search! day 2 hour 15
+2017-03-02 15:01:02,121 - realTime_san1.py:255 - logging - down! day 2 hour 15
+2017-03-02 15:01:02,122 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 15:06:02,166 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 15:11:02,213 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 15:16:02,306 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 15:21:02,402 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 15:26:02,502 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 15:31:02,586 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 15:36:02,683 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 15:41:02,779 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 15:46:02,876 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 15:51:02,979 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 16:00:00,011 - realTime_san1.py:207 - logging - start! day 2 hour 16
+2017-03-02 16:00:54,989 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 16:00:54,990 - realTime_san1.py:229 - logging - the program time is :35.1131539345
+2017-03-02 16:00:54,990 - realTime_san1.py:230 - logging - down search! day 2 hour 16
+2017-03-02 16:01:02,691 - realTime_san1.py:255 - logging - down! day 2 hour 16
+2017-03-02 16:01:02,691 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 16:06:02,750 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 16:11:02,837 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 16:16:02,920 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 16:21:03,013 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 16:26:03,111 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 16:31:03,214 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 16:36:03,298 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 16:41:03,394 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 16:46:03,488 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 16:51:03,590 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 17:00:00,012 - realTime_san1.py:207 - logging - start! day 2 hour 17
+2017-03-02 17:00:51,240 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 17:00:51,241 - realTime_san1.py:229 - logging - the program time is :32.0841920376
+2017-03-02 17:00:51,241 - realTime_san1.py:230 - logging - down search! day 2 hour 17
+2017-03-02 17:00:58,655 - realTime_san1.py:255 - logging - down! day 2 hour 17
+2017-03-02 17:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 17:06:00,061 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 17:11:00,156 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 17:16:00,253 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 17:21:00,355 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 17:26:00,456 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 17:31:00,552 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 17:36:00,646 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 17:41:00,743 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 17:46:00,839 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 17:51:00,938 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 18:00:00,021 - realTime_san1.py:207 - logging - start! day 2 hour 18
+2017-03-02 18:00:54,164 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 18:00:54,165 - realTime_san1.py:229 - logging - the program time is :35.0107131004
+2017-03-02 18:00:54,165 - realTime_san1.py:230 - logging - down search! day 2 hour 18
+2017-03-02 18:01:02,088 - realTime_san1.py:255 - logging - down! day 2 hour 18
+2017-03-02 18:01:02,089 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 18:06:02,189 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 18:11:02,213 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 18:16:02,270 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 18:21:02,327 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 18:26:02,424 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 18:31:02,502 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 18:36:02,598 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 18:41:02,700 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 18:46:02,766 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 18:51:02,829 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 19:00:00,017 - realTime_san1.py:207 - logging - start! day 2 hour 19
+2017-03-02 19:00:53,071 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 19:00:53,071 - realTime_san1.py:229 - logging - the program time is :33.1708798409
+2017-03-02 19:00:53,072 - realTime_san1.py:230 - logging - down search! day 2 hour 19
+2017-03-02 19:01:01,759 - realTime_san1.py:255 - logging - down! day 2 hour 19
+2017-03-02 19:01:01,760 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 19:06:01,806 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 19:11:01,870 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 19:16:01,966 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 19:21:02,068 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 19:26:02,153 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 19:31:02,214 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 19:36:02,270 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 19:41:02,368 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 19:46:02,470 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 19:51:02,572 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 20:00:00,011 - realTime_san1.py:207 - logging - start! day 2 hour 20
+2017-03-02 20:00:54,199 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 20:00:54,199 - realTime_san1.py:229 - logging - the program time is :34.9617350101
+2017-03-02 20:00:54,200 - realTime_san1.py:230 - logging - down search! day 2 hour 20
+2017-03-02 20:01:02,360 - realTime_san1.py:255 - logging - down! day 2 hour 20
+2017-03-02 20:01:02,361 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 20:06:02,436 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 20:11:02,454 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 20:16:02,557 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 20:21:02,614 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 20:26:02,714 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 20:31:02,799 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 20:36:02,902 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 20:41:03,000 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 20:46:03,098 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 20:51:03,200 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 21:00:00,011 - realTime_san1.py:207 - logging - start! day 2 hour 21
+2017-03-02 21:00:53,754 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 21:00:53,754 - realTime_san1.py:229 - logging - the program time is :33.8208250999
+2017-03-02 21:00:53,754 - realTime_san1.py:230 - logging - down search! day 2 hour 21
+2017-03-02 21:01:02,206 - realTime_san1.py:255 - logging - down! day 2 hour 21
+2017-03-02 21:01:02,207 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 21:06:02,278 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 21:11:02,368 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 21:16:02,446 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 21:21:02,549 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 21:26:02,645 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 21:31:02,747 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 21:36:02,822 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 21:41:02,886 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 21:46:02,966 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 21:51:03,066 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 22:00:00,019 - realTime_san1.py:207 - logging - start! day 2 hour 22
+2017-03-02 22:00:55,601 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 22:00:55,601 - realTime_san1.py:229 - logging - the program time is :35.7559299469
+2017-03-02 22:00:55,602 - realTime_san1.py:230 - logging - down search! day 2 hour 22
+2017-03-02 22:01:03,511 - realTime_san1.py:255 - logging - down! day 2 hour 22
+2017-03-02 22:01:03,511 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 22:06:03,565 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 22:11:03,630 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 22:16:03,690 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 22:21:03,714 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 22:26:03,753 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 22:31:03,843 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 22:36:03,941 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 22:41:04,044 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 22:46:04,091 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 22:51:04,154 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-02 23:00:00,010 - realTime_san1.py:207 - logging - start! day 2 hour 23
+2017-03-02 23:00:52,352 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-02 23:00:52,353 - realTime_san1.py:229 - logging - the program time is :32.4482941628
+2017-03-02 23:00:52,353 - realTime_san1.py:230 - logging - down search! day 2 hour 23
+2017-03-02 23:01:01,134 - realTime_san1.py:255 - logging - down! day 2 hour 23
+2017-03-02 23:01:01,135 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-02 23:06:01,213 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-02 23:11:01,304 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-02 23:16:01,409 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-02 23:21:01,498 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-02 23:26:01,591 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-02 23:31:01,686 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-02 23:36:01,766 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-02 23:41:01,846 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-02 23:46:01,898 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-02 23:51:01,985 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 00:00:00,011 - realTime_san1.py:207 - logging - start! day 3 hour 0
+2017-03-03 00:00:52,076 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 00:00:52,077 - realTime_san1.py:229 - logging - the program time is :32.9322600365
+2017-03-03 00:00:52,077 - realTime_san1.py:230 - logging - down search! day 3 hour 0
+2017-03-03 00:00:59,676 - realTime_san1.py:255 - logging - down! day 3 hour 0
+2017-03-03 00:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 00:06:00,041 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 00:11:00,140 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 00:16:00,240 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 00:21:00,342 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 00:26:00,445 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 00:31:00,544 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 00:36:00,606 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 00:41:00,705 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 00:46:00,754 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 00:51:00,854 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 01:00:00,011 - realTime_san1.py:207 - logging - start! day 3 hour 1
+2017-03-03 01:00:51,826 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 01:00:51,827 - realTime_san1.py:229 - logging - the program time is :32.6698698997
+2017-03-03 01:00:51,827 - realTime_san1.py:230 - logging - down search! day 3 hour 1
+2017-03-03 01:01:00,161 - realTime_san1.py:255 - logging - down! day 3 hour 1
+2017-03-03 01:01:00,162 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 01:06:00,214 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 01:11:00,306 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 01:16:00,390 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 01:21:00,490 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 01:26:00,565 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 01:31:00,637 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 01:36:00,733 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 01:41:00,833 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 01:46:00,935 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 01:51:01,034 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 02:00:00,010 - realTime_san1.py:207 - logging - start! day 3 hour 2
+2017-03-03 02:00:54,672 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 02:00:54,673 - realTime_san1.py:229 - logging - the program time is :34.8159468174
+2017-03-03 02:00:54,673 - realTime_san1.py:230 - logging - down search! day 3 hour 2
+2017-03-03 02:01:03,408 - realTime_san1.py:255 - logging - down! day 3 hour 2
+2017-03-03 02:01:03,408 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 02:06:03,510 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 02:11:03,565 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 02:16:03,608 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 02:21:03,711 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 02:26:03,799 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 02:31:03,891 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 02:36:03,984 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 02:41:04,087 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 02:46:04,158 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 02:51:04,214 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 03:00:00,009 - realTime_san1.py:207 - logging - start! day 3 hour 3
+2017-03-03 03:00:52,637 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 03:00:52,638 - realTime_san1.py:229 - logging - the program time is :30.8730490208
+2017-03-03 03:00:52,638 - realTime_san1.py:230 - logging - down search! day 3 hour 3
+2017-03-03 03:00:59,853 - realTime_san1.py:255 - logging - down! day 3 hour 3
+2017-03-03 03:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 03:06:00,073 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 03:11:00,168 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 03:16:00,213 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 03:21:00,287 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 03:26:00,381 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 03:31:00,474 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 03:36:00,573 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 03:41:00,665 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 03:46:00,758 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 03:51:00,859 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 04:00:00,008 - realTime_san1.py:207 - logging - start! day 3 hour 4
+2017-03-03 04:00:51,622 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 04:00:51,622 - realTime_san1.py:229 - logging - the program time is :32.366257906
+2017-03-03 04:00:51,623 - realTime_san1.py:230 - logging - down search! day 3 hour 4
+2017-03-03 04:01:00,988 - realTime_san1.py:255 - logging - down! day 3 hour 4
+2017-03-03 04:01:00,990 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 04:06:01,091 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 04:11:01,190 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 04:16:01,286 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 04:21:01,366 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 04:26:01,448 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 04:31:01,503 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 04:36:01,606 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 04:41:01,701 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 04:46:01,793 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 04:51:01,878 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 05:00:00,008 - realTime_san1.py:207 - logging - start! day 3 hour 5
+2017-03-03 05:00:52,489 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 05:00:52,489 - realTime_san1.py:229 - logging - the program time is :32.5330469608
+2017-03-03 05:00:52,489 - realTime_san1.py:230 - logging - down search! day 3 hour 5
+2017-03-03 05:00:59,824 - realTime_san1.py:255 - logging - down! day 3 hour 5
+2017-03-03 05:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 05:06:00,029 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 05:11:00,069 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 05:16:00,149 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 05:21:00,241 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 05:26:00,337 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 05:31:00,432 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 05:36:00,534 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 05:41:00,623 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 05:46:00,718 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 05:51:00,815 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 06:00:00,007 - realTime_san1.py:207 - logging - start! day 3 hour 6
+2017-03-03 06:00:51,035 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 06:00:51,035 - realTime_san1.py:229 - logging - the program time is :31.8930311203
+2017-03-03 06:00:51,036 - realTime_san1.py:230 - logging - down search! day 3 hour 6
+2017-03-03 06:00:58,619 - realTime_san1.py:255 - logging - down! day 3 hour 6
+2017-03-03 06:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 06:06:00,070 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 06:11:00,134 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 06:16:00,230 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 06:21:00,310 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 06:26:00,395 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 06:31:00,491 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 06:36:00,565 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 06:41:00,641 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 06:46:00,742 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 06:51:00,824 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 07:00:00,007 - realTime_san1.py:207 - logging - start! day 3 hour 7
+2017-03-03 07:00:48,940 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 07:00:48,941 - realTime_san1.py:229 - logging - the program time is :29.7751169205
+2017-03-03 07:00:48,941 - realTime_san1.py:230 - logging - down search! day 3 hour 7
+2017-03-03 07:00:56,098 - realTime_san1.py:255 - logging - down! day 3 hour 7
+2017-03-03 07:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 07:06:00,085 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 07:11:00,166 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 07:16:00,255 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 07:21:00,353 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 07:26:00,431 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 07:31:00,525 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 07:36:00,613 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 07:41:00,714 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 07:46:00,788 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 07:51:00,885 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 08:00:00,007 - realTime_san1.py:207 - logging - start! day 3 hour 8
+2017-03-03 08:00:49,462 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 08:00:49,463 - realTime_san1.py:229 - logging - the program time is :30.1253809929
+2017-03-03 08:00:49,463 - realTime_san1.py:230 - logging - down search! day 3 hour 8
+2017-03-03 08:00:56,201 - realTime_san1.py:255 - logging - down! day 3 hour 8
+2017-03-03 08:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 08:06:00,053 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 08:11:00,136 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 08:16:00,222 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 08:21:00,309 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 08:26:00,400 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 08:31:00,502 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 08:36:00,577 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 08:41:00,674 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 08:46:00,776 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 08:51:00,876 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 09:00:00,009 - realTime_san1.py:207 - logging - start! day 3 hour 9
+2017-03-03 09:00:52,708 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 09:00:52,708 - realTime_san1.py:229 - logging - the program time is :31.3707408905
+2017-03-03 09:00:52,708 - realTime_san1.py:230 - logging - down search! day 3 hour 9
+2017-03-03 09:00:59,185 - realTime_san1.py:255 - logging - down! day 3 hour 9
+2017-03-03 09:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 09:06:00,069 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 09:11:00,165 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 09:16:00,214 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 09:21:00,300 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 09:26:00,375 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 09:31:00,464 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 09:36:00,565 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 09:41:00,639 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 09:46:00,734 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 09:51:00,809 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 10:00:00,008 - realTime_san1.py:207 - logging - start! day 3 hour 10
+2017-03-03 10:00:48,356 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 10:00:48,356 - realTime_san1.py:229 - logging - the program time is :29.1957218647
+2017-03-03 10:00:48,356 - realTime_san1.py:230 - logging - down search! day 3 hour 10
+2017-03-03 10:00:55,963 - realTime_san1.py:255 - logging - down! day 3 hour 10
+2017-03-03 10:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 10:06:00,071 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 10:11:00,165 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 10:16:00,260 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 10:21:00,353 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 10:26:00,450 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 10:31:00,543 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 10:36:00,632 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 10:41:00,725 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 10:46:00,818 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 10:51:00,921 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 11:00:00,007 - realTime_san1.py:207 - logging - start! day 3 hour 11
+2017-03-03 11:00:49,894 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 11:00:49,895 - realTime_san1.py:229 - logging - the program time is :29.3050739765
+2017-03-03 11:00:49,895 - realTime_san1.py:230 - logging - down search! day 3 hour 11
+2017-03-03 11:00:56,064 - realTime_san1.py:255 - logging - down! day 3 hour 11
+2017-03-03 11:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 11:06:00,090 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 11:11:00,186 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 11:16:00,256 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 11:21:00,348 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 11:26:00,444 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 11:31:00,535 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 11:36:00,641 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 11:41:00,723 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 11:46:00,803 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 11:51:00,893 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 12:00:00,008 - realTime_san1.py:207 - logging - start! day 3 hour 12
+2017-03-03 12:00:47,040 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 12:00:47,040 - realTime_san1.py:229 - logging - the program time is :27.8274869919
+2017-03-03 12:00:47,040 - realTime_san1.py:230 - logging - down search! day 3 hour 12
+2017-03-03 12:00:53,278 - realTime_san1.py:255 - logging - down! day 3 hour 12
+2017-03-03 12:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 12:06:00,081 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 12:11:00,176 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 12:16:00,266 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 12:21:00,365 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 12:26:00,468 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 12:31:00,565 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 12:36:00,605 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 12:41:00,690 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 12:46:00,789 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 12:51:00,877 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 13:00:00,011 - realTime_san1.py:207 - logging - start! day 3 hour 13
+2017-03-03 13:00:47,903 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 13:00:47,903 - realTime_san1.py:229 - logging - the program time is :28.816411972
+2017-03-03 13:00:47,903 - realTime_san1.py:230 - logging - down search! day 3 hour 13
+2017-03-03 13:00:54,648 - realTime_san1.py:255 - logging - down! day 3 hour 13
+2017-03-03 13:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 13:06:00,094 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 13:11:00,189 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 13:16:00,295 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 13:21:00,398 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 13:26:00,469 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 13:31:00,565 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 13:36:00,643 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 13:41:00,738 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 13:46:00,826 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 13:51:00,914 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 14:00:00,009 - realTime_san1.py:207 - logging - start! day 3 hour 14
+2017-03-03 14:00:52,190 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 14:00:52,191 - realTime_san1.py:229 - logging - the program time is :32.294282198
+2017-03-03 14:00:52,191 - realTime_san1.py:230 - logging - down search! day 3 hour 14
+2017-03-03 14:01:01,152 - realTime_san1.py:255 - logging - down! day 3 hour 14
+2017-03-03 14:01:01,153 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 14:06:01,246 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 14:11:01,297 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 14:16:01,398 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 14:21:01,466 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 14:26:01,566 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 14:31:01,653 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 14:36:01,756 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 14:41:01,799 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 14:46:01,855 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 14:51:01,955 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 15:00:00,037 - realTime_san1.py:207 - logging - start! day 3 hour 15
+2017-03-03 15:00:52,141 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 15:00:52,142 - realTime_san1.py:229 - logging - the program time is :33.003015995
+2017-03-03 15:00:52,142 - realTime_san1.py:230 - logging - down search! day 3 hour 15
+2017-03-03 15:00:59,890 - realTime_san1.py:255 - logging - down! day 3 hour 15
+2017-03-03 15:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 15:06:00,095 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 15:11:00,134 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 15:16:00,222 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 15:21:00,312 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 15:26:00,415 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 15:31:00,518 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 15:36:00,606 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 15:41:00,695 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 15:46:00,749 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 15:51:00,838 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 16:00:00,010 - realTime_san1.py:207 - logging - start! day 3 hour 16
+2017-03-03 16:00:56,122 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 16:00:56,123 - realTime_san1.py:229 - logging - the program time is :36.259308815
+2017-03-03 16:00:56,123 - realTime_san1.py:230 - logging - down search! day 3 hour 16
+2017-03-03 16:01:05,906 - realTime_san1.py:255 - logging - down! day 3 hour 16
+2017-03-03 16:01:05,907 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 16:06:05,950 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 16:11:05,965 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 16:16:06,006 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 16:21:06,043 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 16:26:06,130 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 16:31:06,224 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 16:36:06,310 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 16:41:06,406 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 16:46:06,502 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 16:51:06,584 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 17:00:00,007 - realTime_san1.py:207 - logging - start! day 3 hour 17
+2017-03-03 17:01:00,199 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 17:01:00,200 - realTime_san1.py:229 - logging - the program time is :39.2512571812
+2017-03-03 17:01:00,200 - realTime_san1.py:230 - logging - down search! day 3 hour 17
+2017-03-03 17:01:10,187 - realTime_san1.py:255 - logging - down! day 3 hour 17
+2017-03-03 17:01:10,187 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 17:06:10,214 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 17:11:10,289 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 17:16:10,378 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 17:21:10,467 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 17:26:10,565 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 17:31:10,638 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 17:36:10,725 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 17:41:10,815 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 17:46:10,903 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 17:51:10,992 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 18:00:00,008 - realTime_san1.py:207 - logging - start! day 3 hour 18
+2017-03-03 18:00:52,933 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 18:00:52,934 - realTime_san1.py:229 - logging - the program time is :33.7291989326
+2017-03-03 18:00:52,934 - realTime_san1.py:230 - logging - down search! day 3 hour 18
+2017-03-03 18:01:02,002 - realTime_san1.py:255 - logging - down! day 3 hour 18
+2017-03-03 18:01:02,002 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 18:06:02,096 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 18:11:02,190 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 18:16:02,287 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 18:21:02,381 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 18:26:02,475 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 18:31:02,578 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 18:36:02,661 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 18:41:02,753 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 18:46:02,852 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 18:51:02,946 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 19:00:00,008 - realTime_san1.py:207 - logging - start! day 3 hour 19
+2017-03-03 19:00:54,816 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 19:00:54,816 - realTime_san1.py:229 - logging - the program time is :34.2332208157
+2017-03-03 19:00:54,816 - realTime_san1.py:230 - logging - down search! day 3 hour 19
+2017-03-03 19:01:03,527 - realTime_san1.py:255 - logging - down! day 3 hour 19
+2017-03-03 19:01:03,528 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 19:06:03,622 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 19:11:03,701 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 19:16:03,804 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 19:21:03,869 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 19:26:03,966 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 19:31:04,043 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 19:36:04,122 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 19:41:04,225 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 19:46:04,302 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 19:51:04,401 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 20:00:00,014 - realTime_san1.py:207 - logging - start! day 3 hour 20
+2017-03-03 20:00:52,321 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 20:00:52,321 - realTime_san1.py:229 - logging - the program time is :33.2083258629
+2017-03-03 20:00:52,322 - realTime_san1.py:230 - logging - down search! day 3 hour 20
+2017-03-03 20:01:00,080 - realTime_san1.py:255 - logging - down! day 3 hour 20
+2017-03-03 20:01:00,081 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 20:06:00,142 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 20:11:00,229 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 20:16:00,325 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 20:21:00,429 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 20:26:00,530 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 20:31:00,633 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 20:36:00,714 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 20:41:00,765 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 20:46:00,866 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 20:51:00,966 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 21:00:00,008 - realTime_san1.py:207 - logging - start! day 3 hour 21
+2017-03-03 21:00:53,980 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 21:00:53,981 - realTime_san1.py:229 - logging - the program time is :34.8974480629
+2017-03-03 21:00:53,981 - realTime_san1.py:230 - logging - down search! day 3 hour 21
+2017-03-03 21:01:01,416 - realTime_san1.py:255 - logging - down! day 3 hour 21
+2017-03-03 21:01:01,416 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 21:06:01,502 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 21:11:01,566 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 21:16:01,622 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 21:21:01,714 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 21:26:01,810 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 21:31:01,822 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 21:36:01,893 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 21:41:01,966 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 21:46:01,982 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 21:51:02,051 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 22:00:00,004 - realTime_san1.py:207 - logging - start! day 3 hour 22
+2017-03-03 22:00:54,963 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 22:00:54,963 - realTime_san1.py:229 - logging - the program time is :35.6279149055
+2017-03-03 22:00:54,963 - realTime_san1.py:230 - logging - down search! day 3 hour 22
+2017-03-03 22:01:03,130 - realTime_san1.py:255 - logging - down! day 3 hour 22
+2017-03-03 22:01:03,130 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 22:06:03,214 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 22:11:03,258 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 22:16:03,348 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 22:21:03,439 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 22:26:03,530 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 22:31:03,633 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 22:36:03,730 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 22:41:03,826 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 22:46:03,918 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 22:51:03,997 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-03 23:00:00,004 - realTime_san1.py:207 - logging - start! day 3 hour 23
+2017-03-03 23:00:50,520 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-03 23:00:50,520 - realTime_san1.py:229 - logging - the program time is :31.3615489006
+2017-03-03 23:00:50,520 - realTime_san1.py:230 - logging - down search! day 3 hour 23
+2017-03-03 23:00:58,112 - realTime_san1.py:255 - logging - down! day 3 hour 23
+2017-03-03 23:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-03 23:06:00,087 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-03 23:11:00,179 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-03 23:16:00,269 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-03 23:21:00,367 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-03 23:26:00,450 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-03 23:31:00,547 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-03 23:36:00,638 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-03 23:41:00,732 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-03 23:46:00,833 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-03 23:51:00,936 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 00:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 0
+2017-03-04 00:00:54,487 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 00:00:54,488 - realTime_san1.py:229 - logging - the program time is :34.6321971416
+2017-03-04 00:00:54,488 - realTime_san1.py:230 - logging - down search! day 4 hour 0
+2017-03-04 00:01:02,007 - realTime_san1.py:255 - logging - down! day 4 hour 0
+2017-03-04 00:01:02,008 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 00:06:02,092 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 00:11:02,170 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 00:16:02,270 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 00:21:02,367 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 00:26:02,469 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 00:31:02,570 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 00:36:02,664 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 00:41:02,766 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 00:46:02,866 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 00:51:02,966 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 01:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 1
+2017-03-04 01:00:52,694 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 01:00:52,694 - realTime_san1.py:229 - logging - the program time is :33.3874671459
+2017-03-04 01:00:52,694 - realTime_san1.py:230 - logging - down search! day 4 hour 1
+2017-03-04 01:01:00,409 - realTime_san1.py:255 - logging - down! day 4 hour 1
+2017-03-04 01:01:00,409 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 01:06:00,434 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 01:11:00,534 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 01:16:00,615 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 01:21:00,719 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 01:26:00,774 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 01:31:00,838 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 01:36:00,934 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 01:41:01,014 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 01:46:01,093 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 01:51:01,190 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 02:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 2
+2017-03-04 02:00:54,485 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 02:00:54,485 - realTime_san1.py:229 - logging - the program time is :33.7982370853
+2017-03-04 02:00:54,486 - realTime_san1.py:230 - logging - down search! day 4 hour 2
+2017-03-04 02:01:02,607 - realTime_san1.py:255 - logging - down! day 4 hour 2
+2017-03-04 02:01:02,608 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 02:06:02,638 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 02:11:02,714 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 02:16:02,814 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 02:21:02,838 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 02:26:02,903 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 02:31:02,975 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 02:36:03,066 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 02:41:03,161 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 02:46:03,254 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 02:51:03,344 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 03:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 3
+2017-03-04 03:00:51,164 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 03:00:51,164 - realTime_san1.py:229 - logging - the program time is :30.5524311066
+2017-03-04 03:00:51,164 - realTime_san1.py:230 - logging - down search! day 4 hour 3
+2017-03-04 03:00:59,273 - realTime_san1.py:255 - logging - down! day 4 hour 3
+2017-03-04 03:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 03:06:00,042 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 03:11:00,053 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 03:16:00,123 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 03:21:00,220 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 03:26:00,323 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 03:31:00,414 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 03:36:00,504 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 03:41:00,601 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 03:46:00,695 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 03:51:00,787 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 04:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 4
+2017-03-04 04:00:54,137 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 04:00:54,137 - realTime_san1.py:229 - logging - the program time is :34.986495018
+2017-03-04 04:00:54,138 - realTime_san1.py:230 - logging - down search! day 4 hour 4
+2017-03-04 04:01:02,090 - realTime_san1.py:255 - logging - down! day 4 hour 4
+2017-03-04 04:01:02,090 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 04:06:02,152 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 04:11:02,215 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 04:16:02,246 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 04:21:02,348 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 04:26:02,441 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 04:31:02,516 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 04:36:02,609 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 04:41:02,707 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 04:46:02,799 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 04:51:02,900 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 05:00:00,006 - realTime_san1.py:207 - logging - start! day 4 hour 5
+2017-03-04 05:00:52,886 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 05:00:52,886 - realTime_san1.py:229 - logging - the program time is :33.7885258198
+2017-03-04 05:00:52,886 - realTime_san1.py:230 - logging - down search! day 4 hour 5
+2017-03-04 05:00:59,916 - realTime_san1.py:255 - logging - down! day 4 hour 5
+2017-03-04 05:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 05:06:00,049 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 05:11:00,117 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 05:16:00,214 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 05:21:00,250 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 05:26:00,332 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 05:31:00,417 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 05:36:00,502 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 05:41:00,565 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 05:46:00,658 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 05:51:00,714 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 06:00:00,006 - realTime_san1.py:207 - logging - start! day 4 hour 6
+2017-03-04 06:00:55,294 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 06:00:55,294 - realTime_san1.py:229 - logging - the program time is :35.3830490112
+2017-03-04 06:00:55,295 - realTime_san1.py:230 - logging - down search! day 4 hour 6
+2017-03-04 06:01:03,287 - realTime_san1.py:255 - logging - down! day 4 hour 6
+2017-03-04 06:01:03,288 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 06:06:03,388 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 06:11:03,475 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 06:16:03,565 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 06:21:03,662 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 06:26:03,727 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 06:31:03,812 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 06:36:03,904 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 06:41:03,990 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 06:46:04,075 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 06:51:04,162 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 07:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 7
+2017-03-04 07:00:53,823 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 07:00:53,823 - realTime_san1.py:229 - logging - the program time is :33.2061560154
+2017-03-04 07:00:53,824 - realTime_san1.py:230 - logging - down search! day 4 hour 7
+2017-03-04 07:01:01,441 - realTime_san1.py:255 - logging - down! day 4 hour 7
+2017-03-04 07:01:01,442 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 07:06:01,501 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 07:11:01,582 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 07:16:01,662 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 07:21:01,714 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 07:26:01,776 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 07:31:01,879 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 07:36:01,966 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 07:41:02,070 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 07:46:02,151 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 07:51:02,214 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 08:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 8
+2017-03-04 08:00:51,675 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 08:00:51,676 - realTime_san1.py:229 - logging - the program time is :32.357213974
+2017-03-04 08:00:51,676 - realTime_san1.py:230 - logging - down search! day 4 hour 8
+2017-03-04 08:00:59,455 - realTime_san1.py:255 - logging - down! day 4 hour 8
+2017-03-04 08:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 08:06:00,079 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 08:11:00,117 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 08:16:00,142 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 08:21:00,230 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 08:26:00,266 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 08:31:00,305 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 08:36:00,370 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 08:41:00,470 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 08:46:00,570 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 08:51:00,670 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 09:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 9
+2017-03-04 09:00:52,725 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 09:00:52,726 - realTime_san1.py:229 - logging - the program time is :33.6132788658
+2017-03-04 09:00:52,726 - realTime_san1.py:230 - logging - down search! day 4 hour 9
+2017-03-04 09:00:59,552 - realTime_san1.py:255 - logging - down! day 4 hour 9
+2017-03-04 09:01:00,000 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 09:06:00,098 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 09:11:00,200 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 09:16:00,214 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 09:21:00,303 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 09:26:00,390 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 09:31:00,469 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 09:36:00,565 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 09:41:00,669 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 09:46:00,722 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 09:51:00,764 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 10:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 10
+2017-03-04 10:00:54,547 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 10:00:54,548 - realTime_san1.py:229 - logging - the program time is :34.6511301994
+2017-03-04 10:00:54,548 - realTime_san1.py:230 - logging - down search! day 4 hour 10
+2017-03-04 10:01:01,680 - realTime_san1.py:255 - logging - down! day 4 hour 10
+2017-03-04 10:01:01,680 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 10:06:01,714 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 10:11:01,794 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 10:16:01,878 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 10:21:01,894 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 10:26:01,966 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 10:31:02,054 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 10:36:02,151 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 10:41:02,254 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 10:46:02,278 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 10:51:02,374 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 11:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 11
+2017-03-04 11:00:52,983 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 11:00:52,984 - realTime_san1.py:229 - logging - the program time is :33.7642989159
+2017-03-04 11:00:52,984 - realTime_san1.py:230 - logging - down search! day 4 hour 11
+2017-03-04 11:01:01,184 - realTime_san1.py:255 - logging - down! day 4 hour 11
+2017-03-04 11:01:01,185 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 11:06:01,283 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 11:11:01,381 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 11:16:01,479 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 11:21:01,579 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 11:26:01,678 - realTime_san1.py:197 - logging - wait...min:26
+2017-03-04 11:31:01,773 - realTime_san1.py:197 - logging - wait...min:31
+2017-03-04 11:36:01,858 - realTime_san1.py:197 - logging - wait...min:36
+2017-03-04 11:41:01,933 - realTime_san1.py:197 - logging - wait...min:41
+2017-03-04 11:46:02,014 - realTime_san1.py:197 - logging - wait...min:46
+2017-03-04 11:51:02,117 - realTime_san1.py:197 - logging - wait...min:51
+2017-03-04 12:00:00,004 - realTime_san1.py:207 - logging - start! day 4 hour 12
+2017-03-04 12:00:52,384 - realTime_san1.py:226 - logging - 3000 3000 3000
+2017-03-04 12:00:52,384 - realTime_san1.py:229 - logging - the program time is :32.3644609451
+2017-03-04 12:00:52,385 - realTime_san1.py:230 - logging - down search! day 4 hour 12
+2017-03-04 12:01:00,767 - realTime_san1.py:255 - logging - down! day 4 hour 12
+2017-03-04 12:01:00,768 - realTime_san1.py:197 - logging - wait...min:1
+2017-03-04 12:06:00,846 - realTime_san1.py:197 - logging - wait...min:6
+2017-03-04 12:11:00,926 - realTime_san1.py:197 - logging - wait...min:11
+2017-03-04 12:16:00,974 - realTime_san1.py:197 - logging - wait...min:16
+2017-03-04 12:21:01,059 - realTime_san1.py:197 - logging - wait...min:21
+2017-03-04 12:26:01,151 - realTime_san1.py:197 - logging - wait...min:26
